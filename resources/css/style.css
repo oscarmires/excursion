@@ -27,4 +27,9 @@ a.download {
 
 .copy {
     text-align: right;
+    color: gray;
+}
+
+#coming-soon {
+    margin-top: 20px;
 }
